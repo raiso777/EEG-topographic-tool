@@ -1,6 +1,6 @@
-# EEG_Topographic
+# EEG-topographic-tool
 > 繪製 EEG 的 Topographic
-> [在HackMD上檢視這篇文章](https://hackmd.io/@raiso/BJWKz4-cU)。
+
 1. 繪製 Topographic 所需
     - Channel 的位置 (Nx2)
     - 每個 Channel 的權重 (Nx1)
